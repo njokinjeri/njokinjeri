@@ -15,7 +15,7 @@ To keep the blues away, I'm working on the [Impractical Series](https://github.c
 
 **Connect**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthea)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njokinjeri/)
 
 
 *"Semper est locus emendationi."* — There is always room for improvement.ouns
