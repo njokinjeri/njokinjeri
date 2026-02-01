@@ -11,8 +11,6 @@ Turns out there's more, and I'm on a journey to unearth it by learning and build
 **Building with:** JavaScript, HTML/CSS, Three.js, Node.js, Express, React, SQL, PostgreSQL, Docker
  
 
-To keep the blues away, I'm working on the [Impractical Series](https://github.com/njokinjeri/impractical-series) - fun experiments with code, a bit of math, and everything in that corner of curiosity.
-
 **Connect**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njokinjeri/)
