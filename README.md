@@ -8,7 +8,7 @@ Turns out there's more, and I'm on a journey to unearth it by learning and build
 
 ## My Toolbox
 **Learning:** TypeScript, Python  
-**Building with:** JavaScript, HTML/CSS, Three.js, Node.js, Express, React, SQL, PostgreSQL, Docker
+**Building with:** JavaScript, HTML/CSS, Node.js, Express, React, SQL, PostgreSQL, Docker
  
 
 **Connect**
