@@ -1,6 +1,7 @@
 # Hey, I'm Njoki Njeri 🐞
 
- 
+ <div align="center">
+  
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  ┌──────────────────────────────────────────────────┐    ║
@@ -21,7 +22,7 @@
 ║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
+</div>
 
 I'm a software developer interested in many things, but centrally: solving problems, even the small, minutiae ones.  
 Like most unconventional epics, I first became fascinated by how simple web pages worked and felt a spark; it made me want to understand how everything behind the scenes comes together.
