@@ -1,35 +1,37 @@
 # Hey, I'm Njoki Njeri 🐞
-
- <div align="center">
   
 ```
-╔══════════════════════════════════════════════════════════╗
-║  ┌──────────────────────────────────────────────────┐    ║
-║  │                                                  │    ║
-║  │  ██████╗ ██╗   ██╗██╗██╗     ██████╗  ██╗        │    ║
-║  │  ██╔══██╗██║   ██║██║██║     ██╔══██╗ ╚═╝        │    ║
-║  │  ██████╔╝██║   ██║██║██║     ██║  ██║            │    ║
-║  │  ██╔══██╗██║   ██║██║██║     ██║  ██║            │    ║
-║  │  ██████╔╝╚██████╔╝██║███████╗██████╔╝  ██╗       │    ║
-║  │  ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝   ╚═╝       │    ║
-║  │  ▓▓▓▓▓▓▓  ▓▓▓▓▓▓ ▓▓▓ ▓▓▓▓▓▓▓ ▓▓▓▓▓▓▓   ▓▓▓       │    ║
-║  │                                                  │    ║
-║  │  > @njokinjeri                                   │    ║
-║  │  > developer ~ tinkerer ~ perpetual learner _    │    ║
-║  │                                                  │    ║
-║  └──────────────────────────────────────────────────┘    ║
-╚══════════════════════════════════════════════════════════╝
-╔══════════════════════════════════════════════════════════╗
-║  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    ║
-╚══════════════════════════════════════════════════════════╝
+          ▐█▌
+          ▐█▌
+        ▐█████▌
+        ▐█████▌
+        ▐█████▌
+      ▐█████████▌
+      ▐█┼┼┼┼┼┼┼█▌
+      ▐█┼┼┼┼┼┼┼█▌
+      ▐█┼┼┼┼┼┼┼█▌
+    ▐█████████████▌
+    ▐█┼┼┼┼┼┼┼┼┼┼┼█▌
+    ▐█┼┼┼┼┼┼┼┼┼┼┼█▌
+    ▐█┼┼┼┼┼┼┼┼┼┼┼█▌
+    ▐█┼┼┼┼┼┼┼┼┼┼┼█▌
+   ▐███████████████▌
+   ▐█┼┼┼┼┼┼┼┼┼┼┼┼┼█▌
+   ▐█┼┼┼┼┼┼┼┼┼┼┼┼┼█▌
+  ▐█████████████████▌
+  ███████████████████
 
+> @njokinjeri
+> developer ~ tinkerer ~ perpetual learner
+> building. _
 ```
-</div>
 
-I'm a software developer interested in many things, but centrally: solving problems, even the small, minutiae ones.  
-Like most unconventional epics, I first became fascinated by how simple web pages worked and felt a spark; it made me want to understand how everything behind the scenes comes together.
+I'm a software developer with a thing for the web, how it works, what it can do, and what happens when you push it a little.
 
-Turns out there’s more, and I’m learning, building, and refining my understanding of how software, infrastructure, and systems come together.
+I believe ideas shouldn't wait. Experiment, fail, learn, try again, that's the cycle. I'm currently running a creative series that puts that philosophy into practice, exploring what's possible one project at a time.
+
+My stack is growing with me, as I build, break, and figure it out.
+
 
 ## Toolbox
 **Learning:** TypeScript, Python  
