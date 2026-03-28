@@ -46,3 +46,7 @@ My stack is growing with me, as I build, break, and figure it out.
 
 
 *"Semper est locus emendationi."* :-: There is always room for improvement.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/njokinjeri/heart-dashboard/main/heart.svg" alt="Njoki's Activity Heart" width="850">
+</p>
