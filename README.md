@@ -28,7 +28,7 @@
 
 I'm a software developer with a thing for the web, how it works, what it can do, and what happens when you push it a little.
 
-I believe ideas shouldn't wait. Experiment, fail, learn, try again, that's the cycle. I'm currently running a creative series that puts that philosophy into practice, exploring what's possible one project at a time.
+I believe ideas shouldn't wait. Experiment, fail, learn, try again. I'm currently running a creative series that puts that philosophy into practice, exploring what's possible one project at a time.
 
 My stack is growing with me, as I build, break, and figure it out.
 
