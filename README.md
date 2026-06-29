@@ -1,4 +1,4 @@
-# Hey, I'm Njoki Njeri 🐞
+# Hey, I'm Njoki Njeri 
 
 ```
 
