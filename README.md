@@ -47,5 +47,4 @@ Catch me sharing builds on:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/njokinjeri/heart-dashboard/main/heart.svg" alt="Njoki's Activity Heart" width="850">
 </p>
