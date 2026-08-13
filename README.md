@@ -43,7 +43,7 @@ Experiment, fail, learn, try again. Right now, I'm running an experimental creat
 
 [![Singularity Demo](./assets/singularity-demo.gif)](https://njokinjeri.github.io/impractical-series/src/experiments/singularity/)
 
-*A GPU-accelerated vector sandbox exploring spatial geometry across infinite hallway, vortex, and continuous gravitational singularity modes.*
+*A GPU-accelerated sandbox exploring interactive spatial geometry and gravitational singularities.*
 
 [**🌀 Launch Simulation**](https://njokinjeri.github.io/impractical-series/src/experiments/singularity/)
 
