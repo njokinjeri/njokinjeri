@@ -1,37 +1,24 @@
 # Hey, I'm Njoki Njeri 
+<div align="center">
 
-```
+<img src="./assets/cat.gif" alt="Cat Gif" />
 
-           ██ ████████████████████████████████████████████████ ██
-           ██ ████████████████████████████████████████████████ ██
-           ██ ██                                            ██ ██
-           ██ ██                                            ██ ██
-           ██ ██      [██████████████░░░░░░░░░░]            ██ ██
-           ██ ██                                            ██ ██
-           ██ ██          > building. _                     ██ ██
-           ██ ██                                            ██ ██
-           ██ ██                                            ██ ██
-           ██ ██                                            ██ ██
-           ██ ██                                            ██ ██
-           ██ ██                                            ██ ██
-           ██ ████████████████████████████████████████████████ ██
-           ██                                                  ██
-           ██████████████████████████████████████████████████████
-                    ████████████████████████████████████
-                  ████████████████████████████████████████
-                ████████████████████████████████████████████
-              ████████████████████████████████████████████████
-            ████████████████████████████████████████████████████
+</div>
 
+<div align="center">
 
-> @njokinjeri
-> developer ~ tinkerer ~ perpetual learner
-> building. _
-```
+<img src="./assets/nature.gif" alt="Nature Gif" />
 
-I'm a developer obsessed with the web, how it works, what it can do, and what happens when you push it past its limits. I believe ideas shouldn't wait.
- 
-Experiment, fail, learn, try again. Right now, I'm running an experimental creative series putting that philosophy into practice, one project at a time.
+</div>
+
+<p align="center">
+  <code>developer ~ tinkerer ~ perpetual learner</code>
+</p>
+
+I'm a developer exploring the web through code, experimentation, and creative engineering. 
+I build to understand, experiment to push boundaries, and learn by doing. 
+
+*I'm currently running an experimental series where I turn ideas into interactive builds and explore how far I can take them.*
 
 ---
 
