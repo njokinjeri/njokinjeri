@@ -31,7 +31,7 @@ _I'm currently running an experimental series where I turn ideas into interactiv
     <td align="center" width="50%">
       <h3>Singularity</h3>
       <a href="https://njokinjeri.github.io/impractical-series/src/experiments/singularity/">
-        <img src="./assets/singularity-demo.gif" style="width: 100%; height: 380px; object-fit: cover;">
+        <img src="./assets/singularity-demo.gif" width="100%">
       </a>
       <p><i>A GPU-accelerated sandbox exploring interactive spatial geometry and gravitational singularities.</i></p>
       <a href="https://njokinjeri.github.io/impractical-series/src/experiments/singularity/"><b>🌀 Launch Simulation</b></a>
@@ -39,7 +39,7 @@ _I'm currently running an experimental series where I turn ideas into interactiv
     <td align="center" width="50%">
       <h3>Kyube</h3>
       <a href="https://njokinjeri.github.io/impractical-series/src/experiments/kyube/">
-        <img src="./assets/kyube-demo.gif" style="width: 100%; height: 400px; object-fit: cover;">
+        <img src="./assets/kyube-demo.gif" width="100%">
       </a>
       <p><i>An ancient stone cube floating in deep space.</i></p>
       <a href="https://njokinjeri.github.io/impractical-series/src/experiments/kyube/"><b>🧊 Explore Kyube</b></a>
@@ -47,7 +47,6 @@ _I'm currently running an experimental series where I turn ideas into interactiv
   </tr>
 </table>
 </div>
-
 ---
 
 ## 🛠️ Toolbox
