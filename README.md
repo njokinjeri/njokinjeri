@@ -45,8 +45,19 @@ _I'm currently running an experimental series where I turn ideas into interactiv
       <a href="https://njokinjeri.github.io/impractical-series/src/experiments/kyube/"><b>🧊 Explore Kyube</b></a>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2" width="100%">
+      <h3>🍩 #dough: ~ 14 Three.js Donuts</h3>
+      <a href="https://njokinjeri.github.io/impractical-series/src/experiments/dough/">
+        <img src="./assets/dough-demo.gif" width="100%">
+      </a>
+      <p><i>A 14-part gallery of procedurally generated donuts exploring custom WebGL shaders, instancing, transmission materials, and physics-like interactions.</i></p>
+      <a href="https://njokinjeri.github.io/impractical-series/src/experiments/dough/"><b>🍩 Explore Gallery & Open Source Code</b></a>
+    </td>
+  </tr>
 </table>
 </div>
+
 ---
 
 ## 🛠️ Toolbox
